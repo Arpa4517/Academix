@@ -1,7 +1,7 @@
 # Academix
 
-> A centralized academic platform for managing courses, assignments, and quizzes built for System Analysis and Design course.
-AcademiX is a full-stack web application designed to streamline academic activities for colleges and universities. Managing quizzes, assignments, and student progress — whether conducted online or offline — becomes effortless through a single centralized platform.
+A centralized academic platform for managing courses, assignments, and quizzes built for System Analysis and Design course.
+It is a full-stack web application designed to streamline academic activities for colleges and universities. Managing quizzes, assignments, and student progress — whether conducted online or offline — becomes effortless through a single centralized platform.
 
 
 ## Features
